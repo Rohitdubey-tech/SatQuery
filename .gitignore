@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+ENV/
+env/
+
+# FastAPI / backend
+backend/.venv/
+backend/venv/
+backend/.env
+backend/.pytest_cache/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.cache/
+frontend/.env
+frontend/npm-debug.log*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Playwright / local tooling
+.playwright-mcp/
+
+# Coverage / test outputs
+.coverage
+coverage/
+htmlcov/
