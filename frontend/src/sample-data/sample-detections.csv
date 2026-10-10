@@ -1,0 +1,11 @@
+id,latitude,longitude,confidence,area_sqm,detected_on,label
+imp-001,12.97604,77.59902,0.93,335,2026-08-20,new construction
+imp-002,12.97561,77.60188,0.88,288,2026-08-20,new roof
+imp-003,12.97322,77.60257,0.79,410,2026-08-20,building expansion
+imp-004,12.97091,77.59642,0.84,265,2026-08-20,new construction
+imp-005,12.97888,77.59491,0.74,390,2026-08-20,new construction
+imp-006,12.96697,77.60213,0.81,310,2026-08-20,building expansion
+imp-007,12.98015,77.60545,0.69,220,2026-08-20,new roof
+imp-008,12.96934,77.59091,0.91,455,2026-08-20,new construction
+imp-009,12.98263,77.59977,0.77,345,2026-08-20,new construction
+imp-010,12.97176,77.60692,0.86,370,2026-08-20,building expansion

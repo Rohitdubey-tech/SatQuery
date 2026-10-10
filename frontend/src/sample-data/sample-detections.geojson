@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "id": "geo-001", "confidence": 0.92, "area_sqm": 315, "detected_on": "2026-08-20", "label": "new construction" },
+      "geometry": { "type": "Point", "coordinates": [77.59902, 12.97604] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "geo-002", "confidence": 0.87, "area_sqm": 280, "detected_on": "2026-08-20", "label": "new roof" },
+      "geometry": { "type": "Point", "coordinates": [77.60188, 12.97561] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "geo-003", "confidence": 0.79, "area_sqm": 410, "detected_on": "2026-08-20", "label": "building expansion" },
+      "geometry": { "type": "Point", "coordinates": [77.60257, 12.97322] }
+    }
+  ]
+}
