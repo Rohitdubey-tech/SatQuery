@@ -1,4 +1,3 @@
-// SatQuery AI Application Initial Layout
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
   AlertTriangle,
